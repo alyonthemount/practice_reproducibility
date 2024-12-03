@@ -6,8 +6,8 @@
 # All functions used in the script have been developed for this project
 # and can be found in the folder R/.
 #
-# Author: Jane Doe
-# Email: jane.doe@mail.me
+# Author: Leo Streith
+# Email: leo.streith@gmail.com
 # Date: 2024/12/02
 
 
